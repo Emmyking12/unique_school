@@ -1,0 +1,21 @@
+span{
+    /* background-color: rgb(9, 9, 9); */
+    text-align: left!important;
+     color: aliceblue;
+     font: size 200px;px;
+}
+ul{
+    list-style: none;
+    text-align:center;
+    background-color: black; 
+}
+ul li{
+    display: inline;
+    padding: 15px;px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    border: 500px;
+}
